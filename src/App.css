@@ -1,0 +1,30 @@
+#root {
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrContainer {
+  margin-top: 10px;
+  display: flex;
+}
+
+.num {
+  background: #ffff;
+  text-align: center;
+  margin-right: 5px;
+  padding: 10px;
+  width: 30px;
+  border: 1px solid;
+}
+
+.numKey {
+  background-color: rgb(69, 184, 69);
+}
